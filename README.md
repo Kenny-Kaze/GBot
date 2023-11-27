@@ -21,11 +21,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/riychdwayne/Chika-Md#requirements">Requirements</a> •
-  <a href="https://github.com/riychdwayne/Chika-Md#instalasi">Installation</a> •
-  <a href="https://github.com/riychdwayne/Chika-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/riychdwayne/Chika-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/riychdwayne/Chika-Md#donate">Donate</a>
+  <a href="https://github.com/Kenny-Kaze/G.O.A.T-Bot#requirements">Requirements</a> •
+  <a href="https:https://github.com/Kenny-Kaze/G.O.A.T-Bot#instalasi">Installation</a> •
+  <a href="https:https://github.com/Kenny-Kaze/G.O.A.T-Bot#thanks-to">Thanks to</a> •
+  <a href="https://github.com/Kenny-Kaze/G.O.A.T-Bot#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/Kenny-Kaze/G.O.A.T-Bot#donate">Donate</a>
 </p>
 </div>
 
