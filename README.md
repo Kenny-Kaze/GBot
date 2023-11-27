@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="G.O.A.T Bot" src="https://img.shields.io/badge/G.O.A.T Bot-black?colorA=%0b0b0b&colorB=%313232&style=for-the-badge"></a>
+<a href="#"><img title="G.O.A.T Bot" src="https://img.shields.io/badge/G.O.A.T Bot-black?colorA=%0b0b0b&colorB=%101111&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
