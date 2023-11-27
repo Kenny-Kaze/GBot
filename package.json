@@ -1,7 +1,7 @@
 {
-  "name": "Chika-Md",
-  "version": "1.2.3",
-  "description": "WhatsApp Using Lib Baileys Multi Device",
+  "name": "Goat•Bot",
+  "version": "1",
+  "description": "Only for G.O.A.T Regiment on WhatsApp Group",
   "main": "riy.js",
   "type": "commonjs",
   "scripts": {
@@ -11,12 +11,10 @@
     "termux",
     "whatsapp",
     "2021",
-    "wabase-md",
     "base",
-    "baileys-md",
     "bot",
     "bot-md",
-    "multi-device"
+    "gbot"
   ],
   "author": "Dika Ardnt.",
   "license": "MIT",
@@ -65,10 +63,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DikaArdnt/Hisoka-Morou.git"
+    "url": "git+https://github.com/Kenny-Kaze/G.O.A.T-Bot.git"
   },
   "bugs": {
-    "url": "https://github.com/DikaArdnt/Hisoka-Morou/issues"
+    "url": "https://github.com/Kenny-Kaze/G.O.A.T-Bot/issues"
   },
-  "homepage": "https://github.com/DikaArdnt/Hisoka-Morou#readme"
+  "homepage": "https://github.com/Kenny-Kaze/G.O.A.T-Bot#readme"
 }
