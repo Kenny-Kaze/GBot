@@ -90,17 +90,7 @@ global.sessionName = 'chika'
 </p>
 
 ## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
-
-# Official Group
-- [Group 1](https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw)
-- [Group 2](https://chat.whatsapp.com/L3l8lpRa7SD9eLC58YAa0i)
-- [Group 3](https://chat.whatsapp.com/LQO7wLJ5SY0E5fPsa7jaL8)
+- [Dana](https://wa.me/6283875999626?text=Bang+mau+donasi)
 
 # Thanks to
-- [Dika](https://github.com/DikaArdnt) <br> 
-- [Fatih](https://github.com/FatihArridho) <br> 
-- [Zeeone](https://github.com/zeeone-ofc) <br> 
-- [Yoga](https://github.com/YogGanz) <br> 
-- [Riy](https://github.com/riychdwayne) <br> 
+- [Kenny](https://github.com/Kenny-Kaze) <br> 
