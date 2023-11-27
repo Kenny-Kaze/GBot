@@ -62,21 +62,21 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RIY'
-global.botname = 'Chika-Md'
-global.footer = 'RIY'
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
+global.owner = ['6283875999626','6283875999626','6283875999626']
+global.premium = ['6283875999626']
+global.ownernomer = '6283875999626'
+global.ownername = 'Kenny'
+global.botname = 'Goat•Bot'
+global.footer = 'Kenny'
+global.youtube = 'https://youtube.com/@kazemizukenny'
+global.ig = 'https://instagram.com'
+global.mygc = 'https://chat.whatsapp.com'
+global.myweb = 'https://s.id'
+global.email = 'kazemizukenny@gmail.com'
 global.region = 'indonesia'
-global.packname = '© Chika-Md'
-global.author = 'RIY'
-global.sessionName = 'chika'
+global.packname = '© Goat•Bot'
+global.author = 'Kenny'
+global.sessionName = 'GBot'
 ```
 
 ## ```HOW TO DEPLOY```
