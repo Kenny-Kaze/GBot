@@ -34,12 +34,12 @@
 ---
 
 ## Information
-> Chika-Md adalah bot yang awalnya memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Chika-Md is a bot whatsapp using a Baileys library.
-> Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
+> Goat-Bot adalah bot yang hanya di ciptakan untuk tujuan membantu mengoprasikan G.O.A.T Regiment di Group WhatsApp.
+> Jika kamu menemukan semacam bug, harap untuk dimaklumi
 
 ## Bugs and Tester
-* Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/6281575886399)
+* Jika kamu menemukan bug jangan lupa lapor owner!
+* Info Lebih Lanjut, Chat [owner-G.O.A.T](https://wa.me/628387599626)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -47,12 +47,6 @@
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip) (for sticker command)
 
 # Instalasi
-## Heroku Buildpack
-```bash
-heroku/nodejs
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
 ## For Termux
 ```ts
 termux-setup-storage
