@@ -427,6 +427,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* Sanzy
   *≻* Nekel
   *≻* Bagas Prdn
+  *>* Kenny Kazemizu
   `
 }
 
@@ -453,22 +454,13 @@ Berapapun donasi kalian akan sangat berarti 👍
 
 Thanks!
 
-—————「 *SEWA | RUN BOT* 」—————
+—————「 *SEWA* 」—————
 
   *_SEWA BOT_* 
-  *≻* Sewa Bot 15k (1 minggu)
-  *≻* Sewa Bot 20k (1 bulan)
-  *≻* Sewa Bot 25k (Permanen)
-
-  *JADI BOT* 
-  *≻* Jadi Bot 15k Tidak Owner (1 minggu)
-  *≻* Jadi Bot + Owner 20k (1 bulan)
-  *≻* Jadi Bot + Owner 25k (Permanen)
-
-  *JASA RUN BOT*
-  *≻* Run Bot 15k (1 minggu)
-  *≻* Run Bot 20k (1 bulan)
-  *≻* Run Bot 25k (Permanen)
+  *>* Sewa Bot 10k (3 hari)
+  *≻* Sewa Bot 20k (1 minggu)
+  *≻* Sewa Bot 50k (1 bulan)
+  *≻* Sewa Bot 100k (1 tahun)
 
   *Minat? Langsung chat aja ya cuy 🐦*
 
@@ -962,5 +954,6 @@ exports.thanksto = () => {
   *≻* Sanzy
   *≻* Nekel
   *≻* Bagas Prdn
+  *>* Kenny Kazemizu
 `
 }
