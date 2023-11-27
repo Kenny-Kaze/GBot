@@ -1,5 +1,5 @@
 /*
-› Create By @RIY
+› Create By @KennyKazemizu
 › Base Ori @DikaArdnt
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
@@ -28,7 +28,7 @@ global.ownernomer = '6283875999626' //ubah jadi nomor mu, note tanda ' gausah di
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Kenny' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Kzu•Bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = 'Goat•Bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'Kenny' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
@@ -38,7 +38,7 @@ global.email = 'kazemizukenny@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Kzu•Bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = '© Goat•Bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.author = 'Kenny' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
@@ -54,7 +54,7 @@ free: 15,
 
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.thumb = fs.readFileSync('./image/Kzu.jpg')
+global.thumb = fs.readFileSync('./image/GBot.jpg')
 /*global.veloriy = fs.readFileSync('./image/Kzu.mp4')*/
 
 //—————「 Set Image Welcome 」—————//
