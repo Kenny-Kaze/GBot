@@ -10,14 +10,14 @@
 <a href="https://github.com/Kenny-Kaze"><img title="Remake" src="https://img.shields.io/badge/Remake-Kenny-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/riychdwayne/followers"><img title="Followers" src="https://img.shields.io/github/followers/riychdwayne?color=red&style=flat-square"></a>
-<a href="https://github.com/riychdwayne/Chika-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/riychdwayne/Chika-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/riychdwayne/Chika-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/riychdwayne/Chika-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/riychdwayne/Chika-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/riychdwayne/Chika-Md?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/riychdwayne/Chika-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/riychdwayne/Chika-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/riychdwayne/Chika-Md?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friychdwayne%2FChika-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/riychdwayne/Chika-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Kenny-Kaze/followers"><img title="Followers" src="https://img.shields.io/github/followers/Kenny-Kaze?color=red&style=flat-square"></a>
+<a href="https://github.com/Kenny-Kaze/G.O.A.T-Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kenny-Kaze/G.O.A.T-Bot?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kenny-Kaze/G.O.A.T-Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kenny-Kaze/G.O.A.T-Bot?color=red&style=flat-square"></a>
+<a href="https://github.com/Kenny-Kaze/G.O.A.T-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kenny-Kaze/G.O.A.T-Bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Kenny-Kaze/G.O.A.T-Bot"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/Kenny-Kaze/G.O.A.T-Bot/"><img title="Size" src="https://img.shields.io/github/repo-size/Kenny-Kaze/G.O.A.T-Bot?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKenny-Kaze%2FG.O.A.T-Bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Kenny-Kaze/G.O.A.T-Bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
