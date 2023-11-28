@@ -11,10 +11,12 @@
     "termux",
     "whatsapp",
     "2021",
+    "wabase-md",
     "base",
+    "baileys-md",
     "bot",
     "bot-md",
-    "gbot"
+    "multi-device"
   ],
   "author": "Dika Ardnt.",
   "license": "MIT",
