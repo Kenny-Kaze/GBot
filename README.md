@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/image/GBot.jpg" alt="Chika-Md" width="100"/>
+<img src="/image/GBot.jpg" alt="" width="100"/>
 
 
 </p>
@@ -51,8 +51,8 @@
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Kenny-Kaze/G.O.A.T-Bot.git
-cd G.O.A.T-Bot
+git clone https://github.com/Kenny-Kaze/Gbot.git
+cd Gbot
 pkg install yarn
 yarn
 npm start
@@ -75,7 +75,7 @@ global.email = 'kazemizukenny@gmail.com'
 global.region = 'indonesia'
 global.packname = '© Goat•Bot'
 global.author = 'Kenny'
-global.sessionName = 'GBot'
+global.sessionName = 'session'
 ```
 
 ## ```HOW TO DEPLOY```
