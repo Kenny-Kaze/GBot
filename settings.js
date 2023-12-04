@@ -12,13 +12,13 @@ const chalk = require('chalk')
 //—————「 Website Apikey 」—————//
 global.APIs = {
 //gausah di apa² in!
-zenz: 'https://zenzapis.xyz',
+	alfa: 'https://api.zeeoneofc.my.id',
 }
 
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
 //gausah di apa² in, udah free apikey :)
-'https://zenzapis.xyz': 'BagasGanz',
+	'https://api.zeeoneofc.my.id': 'MBFDAMByei3C8b5',
 }
 
 //—————「 Setting Owner 」—————//
